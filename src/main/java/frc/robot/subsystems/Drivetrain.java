@@ -67,6 +67,7 @@ public class Drivetrain extends Subsystem {
     SmartDashboard.putNumber("Current Front Right: ", fR.getOutputCurrent());
     SmartDashboard.putNumber("Current Back Left: ", bL.getOutputCurrent());
     SmartDashboard.putNumber("Current Back Right: ", bR.getOutputCurrent());
+    
 
   }
 
