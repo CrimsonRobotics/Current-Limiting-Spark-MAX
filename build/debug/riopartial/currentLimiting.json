@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project currentLimiting)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "currentLimiting",
+    "language": "java"
+  }
+]
